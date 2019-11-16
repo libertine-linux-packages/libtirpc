@@ -1,3 +1,8 @@
+Updating origin
+https://github.com/libertine-linux-mirrors/libtirpc
+Branch 'master' set up to track remote branch 'master' from 'origin'.
 [submodule "upstream"]
 	path = upstream
-	url = git://git.linux-nfs.org/projects/steved/libtirpc.git
+	url = https://github.com/libertine-linux-mirrors/libtirpc.git
+	branch = master
+	libertine-linux-upstream = git://git.linux-nfs.org/projects/steved/libtirpc.git
